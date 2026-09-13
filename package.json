@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorYugo/LEARN-HTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorYugo/LEARN-HTTP/issues"
+  },
+  "homepage": "https://github.com/VitorYugo/LEARN-HTTP#readme",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
