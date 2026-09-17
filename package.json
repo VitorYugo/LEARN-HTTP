@@ -19,5 +19,8 @@
   "homepage": "https://github.com/VitorYugo/LEARN-HTTP#readme",
   "devDependencies": {
     "jest": "^30.5.1"
+  },
+  "dependencies": {
+    "jsdom": "^26.1.0"
   }
 }
